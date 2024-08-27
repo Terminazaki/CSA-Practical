@@ -1,2 +1,0 @@
-# CSA-Practical
-Assembly code
